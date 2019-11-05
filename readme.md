@@ -1,4 +1,4 @@
-<a href='furkanolkay.com'>furkanolkay.com</a>
+<a href='http://furkanolkay.com/'>furkanolkay.com</a>
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
